@@ -116,10 +116,11 @@ Key Responsibilities:
 	-	**BA Hons Media Studies** (2:1)
 - College of Further Education, Ballyfermot, Co. Dublin, Ireland (1995 - 1997)
 	-	**BTEC National Diploma in Journalism** - 9 Distinctions, 4 Merits.
-### Software Packages OS / IT Skills
-Skills / tools include Sublime Text, CodeKit, Slack, Adobe Suite, Audacity, Trello, Evernote, Git, JQuery, Html, PHP, CSS, LESS, MySQL, SharePoint, WordPress, SilverStripe,
 
-Knowledge sets include Search engine optimisation, best practice in online conversion, usability, accessibility,  responsive design patterns, design systems, version control, analytics etc.
+### Software application / language skills
+Skills / tools include Visual Studio Code, Sublime Text, CodeKit, Adobe Suite, Audacity, Slack, Trello, Git, JQuery, Html, PHP, CSS, LESS, SASS, MySQL, Vue, SharePoint, WordPress, SilverStripe.
+
+Knowledge sets include accessibility,  search engine optimisation, design systems, best practice in online conversion, usability, responsive design, version control, analytics etc.
 
 ###  Achievements
 - Designed, developed website for Member of the Legislative Assembly (MLA) in Northern Ireland Assembly -  [clairehanna.org](http://clairehanna.org)
