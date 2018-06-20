@@ -31,13 +31,13 @@ Key Responsibilities:
 
 - Led the delivery of two major digital projects - a new Public Sector Intranet and [data.govt.nz](http://data.govt.nz) using agile methodologies
 
-- Managing sprints -- resourcing, communications, helping the team to deliver to plan, removing constraints, blockers
+- Managing sprints - resourcing, communications, helping the team to deliver to plan, removing constraints, blockers
 
-- Identifying training opportunities for the team -- upskilling in agile approach
+- Identifying training opportunities for the team - upskilling in agile approach
 
 - Engaging with teams across agencies in planning for and promotion of all of government services, and reaching out to international counterparts sharing knowledge, networking
 
-- Managing product team, BA, design, development resource -- setting KPIs, roadmaps
+- Managing product team, BA, design, development resource - setting KPIs, roadmaps
 
 - Initiating user-centric approach to all work from analysis, research to design via user forums, community engagement, analytics, determining and building evidence of value
 
@@ -49,14 +49,14 @@ Key Responsibilities:
 
 - Supporting digital service design for government, drafting reports around cost recovery, resourcing etc.
 
-- Future-proofing --- analysing trends, emerging user needs - planning appropriately
+- Future-proofing - analysing trends, emerging user needs - planning appropriately
 
-- Instigating forums -- e.g. 'Insight' for multi-disciplinary team can share work, achievements, knowledge and product owners can promote effectively
+- Instigating forums - e.g. 'Insight' for multi-disciplinary team can share work, achievements, knowledge and product owners can promote effectively
 
-#### Ulster University, Jordanstown, NI (Jan. 2014 -- Nov. 2015 - Digital Communications Manager
+#### Ulster University, Jordanstown, NI (Jan. 2014 - Nov. 2015 - Digital Communications Manager
 Key Responsibilities:
 
-- Instilling agile 'sensibilities' across digital team -- e.g. using GDS (UK) design principles to guide work
+- Instilling agile 'sensibilities' across digital team - e.g. using GDS (UK) design principles to guide work
 
 - Developing, leading on digital strategy and implementing policies as part of a rebrand in 2015
 
@@ -72,7 +72,7 @@ Key Responsibilities:
 
 - Establishment of a practical governance structure to maintain controls for Web Producers across teams
 
-- Leadership for digital communications team members -- ensuring human resources managed effectively
+- Leadership for digital communications team members - ensuring human resources managed effectively
 
 - Building strong partnering relationships with colleagues in key departments, especially those with interdependencies for project delivery
 
@@ -85,7 +85,7 @@ Key Responsibilities:
 #### Danske Bank, Donegall Square, Belfast (Feb. 2009 - Jan. 2014)  Online Manager
 Key Responsibilities:
 
-- Managing the national rebrand of organisation online platforms in 2012 across two jurisdictions -- Ireland and UK - [danskebank.co.uk](http://www.danskebank.co.uk)
+- Managing the national rebrand of organisation online platforms in 2012 across two jurisdictions - Ireland and UK - [danskebank.co.uk](http://www.danskebank.co.uk)
 
 - Responsible for Danske Bank online content (web, apps etc.) from Belfast and Dublin
 
@@ -124,13 +124,13 @@ Key Responsibilities:
 
 - Ensuring content in format and function was usable and accessible to all.
 
-- Web and graphic design for award winning website (e-government award 2007 -- [housingadviceni.org](http://www.housingadviceni.org))
+- Web and graphic design for award winning website (e-government award 2007 - [housingadviceni.org](http://www.housingadviceni.org))
 
 - Research and writing for organisational website [housingrights.org.uk](http://www.housingrights.org.uk)
 
 - Producing monthly reports based on web analysis identifying key areas for improvement etc.
 
-#### Level Seven Creative Design | Belfast, Northern Ireland (Jul. 2004 -- Apr. 2006) | Account Manager 
+#### Level Seven Creative Design | Belfast, Northern Ireland (Jul. 2004 - Apr. 2006) | Account Manager 
 
 Key Responsibilities:
 
@@ -142,7 +142,7 @@ Key Responsibilities:
 
 - ICAgile Certified Professional
 
-	-	o Nov 2017 -- Present License 61-8276-f6b928f4-46ad-44a3-be28-6207eb453e
+	-	o Nov 2017 - Present License 61-8276-f6b928f4-46ad-44a3-be28-6207eb453e
 
 - Professional Diploma in Digital Marketing - Digital Marketing Institute, London, UK (2013)
 
@@ -170,7 +170,7 @@ Key Responsibilities:
 
 	-	**BA Hons Media Studies** (2:1)
 
-- College of Further Education, Ballyfermot, Co. Dublin, Ireland (1995 -- 1997)
+- College of Further Education, Ballyfermot, Co. Dublin, Ireland (1995 - 1997)
 
 	-	**BTEC National Diploma in Journalism** - 9 Distinctions, 4 Merits.
 
