@@ -98,12 +98,10 @@ Key Responsibilities:
 
 - ICAgile Certified Professional
 	-	o Nov 2017 - Present License 61-8276-f6b928f4-46ad-44a3-be28-6207eb453e
-
+- Te reo, Tikanga and Treaty training (beginner) completed in June 2017
 - Professional Diploma in Digital Marketing - Digital Marketing Institute, London, UK (2013)
-
 - PRINCE2 Certified, Belfast (2011)
 	-	APMG International, License 02378154-02-3V1Q
-
 - Adobe Certified Associate - Rich Media Communication;  Flash, Dublin, Ireland (2010)
 - Premiere Publishing (2006) London, UK
 - Writing effectively for the web / Information architecture
