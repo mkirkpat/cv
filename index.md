@@ -37,6 +37,7 @@ Key Responsibilities:
 - Supporting digital service design for government, drafting reports around cost recovery, resourcing etc.
 - Future-proofing - analysing trends, emerging user needs - planning appropriately
 - Instigating forums - e.g. 'Insight' for multi-disciplinary team can share work, achievements, knowledge and product owners can promote effectively
+- Part of interview panels building effective multi-disciplinary teams
 
 #### Ulster University, Jordanstown, NI (Jan. 2014 - Nov. 2015 - Digital Communications Manager
 Key Responsibilities:
