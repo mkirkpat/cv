@@ -25,6 +25,7 @@ Motivated, enthusiastic individual with astute interpersonal skills, committed t
 
 Key Responsibilities:
 
+- Leading work into an all-of-government design system including ideating, liaising with wider communities of interest, pushing project forward
 - Led the delivery of two major digital projects - a new Public Sector Intranet and [data.govt.nz](http://data.govt.nz) using agile methodologies
 - Managing sprints - resourcing, communications, helping the team to deliver to plan, removing constraints, blockers
 - Identifying training opportunities for the team - upskilling in agile approach
