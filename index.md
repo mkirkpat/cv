@@ -21,10 +21,11 @@ Motivated, enthusiastic individual with astute interpersonal skills, committed t
 ### Employment History
 
 
-#### Government Information Services (Nov. 2015 - present) - Digital Delivery Manager
+#### Government Information Services (Nov. 2015 - present) - Delivery Manager / Programme Manager for digital services
 
-Key Responsibilities:
+Key Responsibilities incude:
 
+- Programme Manager role for key work around future of government digital services in New Zealand - informing strategy across the public sector
 - Leading work into an all-of-government design system including ideating, liaising with wider communities of interest, pushing project forward
 - Led the delivery of two major digital projects - a new Public Sector Intranet and [data.govt.nz](http://data.govt.nz) using agile methodologies
 - Managing sprints - resourcing, communications, helping the team to deliver to plan, removing constraints, blockers
