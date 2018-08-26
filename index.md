@@ -1,10 +1,8 @@
 # Mark Kirkpatrick
 
-[ie.linkedin.com/in/markkirkpatrick/](ie.linkedin.com/in/markkirkpatrick/), [markkirkpatrick.co.uk/](markkirkpatrick.co.uk/)
-
-phone: +64 (0)21 1841 761
-
-email: <markkirkpatrick@gmail.com>
+- [ie.linkedin.com/in/markkirkpatrick/](ie.linkedin.com/in/markkirkpatrick/), [markkirkpatrick.co.uk/](markkirkpatrick.co.uk/)
+- phone: +64 (0)21 1841 761
+- email: <markkirkpatrick@gmail.com>
 
 ## Profile
 
@@ -21,13 +19,14 @@ Motivated, enthusiastic individual with astute interpersonal skills, committed t
 ### Employment History
 
 
-#### Government Information Services (Nov. 2015 - present) - Delivery Manager / Programme Manager for digital services
+#### Government Information Services (Nov. 2015 - present) - Programme / Delivery Manager for digital services
 
-Key Responsibilities incude:
+Key Responsibilities include:
 
 - Programme Manager role for key work around future of government digital services in New Zealand - informing strategy across the public sector
 - Leading work into an all-of-government design system including ideating, liaising with wider communities of interest, pushing project forward
-- Led the delivery of two major digital projects - a new Public Sector Intranet and [data.govt.nz](http://data.govt.nz) using agile methodologies
+- Led the delivery of two major digital projects - a new Public Sector Intranet and [data.govt.nz](http://data.govt.nz) using Agile methodologies
+- Working as Acting Portfolio Manager, reporting to Senior Leadership Team etc.
 - Managing sprints - resourcing, communications, helping the team to deliver to plan, removing constraints, blockers
 - Identifying training opportunities for the team - upskilling in agile approach
 - Engaging with teams across agencies in planning for and promotion of all of government services, and reaching out to international counterparts sharing knowledge, networking
