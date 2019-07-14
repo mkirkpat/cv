@@ -99,6 +99,7 @@ Key Responsibilities:
 
 ## Education and Training
 
+- Professional Diploma in Digital Strategy and Planning  - Digital Marketing Institute (2019), Certified CDMS-SP
 - ICAgile Certified Professional
 	-	o Nov 2017 - Present License 61-8276-f6b928f4-46ad-44a3-be28-6207eb453e
 - Te reo, Tikanga and Treaty training (beginner) completed in June 2017
