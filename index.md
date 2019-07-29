@@ -23,6 +23,7 @@ Experienced in delivering for users, leading diverse teams of digital profession
 
 Key Responsibilities include:
 
+- Leading work around the Digital Government Partnership Innovation Fund - a multi-million dollar budgeted fund for promoting new ideas, innovation across government in New Zealand
 - Programme Manager role for key work around future of government digital services in New Zealand - informing strategy across the public sector
 - Leading work into an all-of-government design system including ideating, liaising with wider communities of interest, pushing project forward
 - Led the delivery of two major digital projects - a new Public Sector Intranet and [data.govt.nz](http://data.govt.nz) using Agile methodologies
