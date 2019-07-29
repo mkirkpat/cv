@@ -6,11 +6,11 @@
 
 ## Profile
 
-Motivated, enthusiastic individual with astute interpersonal skills, committed to developing personal potential and pursuing a career. Excellent organisational skills and a confident communicator at all levels.  Can work independently; also enjoys working as part of a team. Reliable, hard-working and works well under pressure.
+Experienced in delivering for users, leading diverse teams of digital professionals, working to a collective vision using collaborative and agile ways of working.  A confident communicator, comfortable presenting, demoing, networking, and using research, data, analysis to make recommendations in furthering digital service design.  Passionate about delivering inclusive services that work well for everyone and evolve as and when conditions change. Responsible for both instigating and delivering major programmes of work and contributing to formulating digital strategy in an era of transformation.
 
 ### Skills and abilities
 
-- A creative, organised, confident person with natural management and leadership qualities
+- Creative, organised with natural management and leadership qualities
 - Well-rounded, specialist IT skills and knowledge
 - Excellent research, project management, interpersonal and communication skills
 - Proven leader and team worker with the ability to energise and motivate others
