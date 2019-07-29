@@ -19,7 +19,7 @@ Experienced in delivering for users, leading diverse teams of digital profession
 ### Employment History
 
 
-#### Government Information Services (Nov. 2015 - present) - Programme / Delivery Manager for digital services
+#### Government Information Services (Nov. 2015 - present) - Programme / Delivery Manager for New Zealand government digital services
 
 Key Responsibilities include:
 
@@ -121,13 +121,13 @@ Key Responsibilities:
 	-	**BTEC National Diploma in Journalism** - 9 Distinctions, 4 Merits.
 
 ### Software application / language skills
-Skills / tools include Visual Studio Code, Sublime Text, CodeKit, Adobe Suite, Audacity, Slack, Trello, Git, JQuery, Html, PHP, CSS, LESS, SASS, MySQL, Vue, SharePoint, WordPress, SilverStripe.
+Skills / tools include Visual Studio Code, Sublime Text, CodeKit, Adobe Suite, Audacity, Slack, Trello, ProductPlan, Roadmunk, Git, JQuery, Html, PHP, CSS, LESS, SASS, MySQL, Vue, SharePoint, WordPress, SilverStripe.
 
-Knowledge sets include accessibility,  search engine optimisation, design systems, best practice in online conversion, usability, responsive design, version control, analytics etc.
+Knowledge sets include accessibility, search engine optimisation, design systems, usability, digital marketing, analytics etc.
 
 ###  Achievements
 - Designed, developed website for Member of the Legislative Assembly (MLA) in Northern Ireland Assembly -  [clairehanna.org](http://clairehanna.org)
-- 3 years chair (2011-2014) of SDLP political party branch in south Belfast
+- 3 years chair (2011-2014) of SDLP political party branch in south Belfast, Northern Ireland
 
 #### Hobbies & Interests
 
