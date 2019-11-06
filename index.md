@@ -19,10 +19,13 @@ Experienced in delivering for users, leading diverse teams of digital profession
 ### Employment History
 
 
-#### Government Information Services (Nov. 2015 - present) - Programme / Delivery Manager for New Zealand government digital services
+#### Government Information Services (Nov. 2015 - present) - Lead Product Owner / Programme / Delivery Manager for New Zealand government digital services
 
 Key Responsibilities include:
-
+- providing high quality advice and recommendations on the strategic direction of product and work programme initiatives
+- driving system-wide outcomes across NZ government digital services and work programme areas 
+- recommending technical digital solutions based on user needs, prototyping and testing to improve services and products
+- championing co-design product development, the use of web standards and promotion of accessibility to ensure high quality, all-of-government digital services
 - Leading work around the Digital Government Partnership Innovation Fund - a multi-million dollar budgeted fund for promoting new ideas, innovation across government in New Zealand
 - Programme Manager role for key work around future of government digital services in New Zealand - informing strategy across the public sector
 - Leading work into an all-of-government design system including ideating, liaising with wider communities of interest, pushing project forward
