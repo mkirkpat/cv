@@ -129,6 +129,7 @@ Skills / tools include Visual Studio Code, Sublime Text, CodeKit, Adobe Suite, A
 Knowledge sets include accessibility, search engine optimisation, design systems, usability, digital marketing, analytics etc.
 
 ###  Achievements
+- Provided digital consultancy in 2019 for successful Claire Hanna campaign to become MP for South Belfast at Westminister, with a 30% increase in vote share
 - Designed, developed website for Member of the Legislative Assembly (MLA) in Northern Ireland Assembly -  [clairehanna.org](http://clairehanna.org)
 - 3 years chair (2011-2014) of SDLP political party branch in south Belfast, Northern Ireland
 
