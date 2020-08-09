@@ -22,6 +22,7 @@ Experienced in delivering for users, leading diverse teams of digital profession
 #### Government Information Services (Nov. 2015 - present) - Lead Product Owner / Programme / Delivery Manager for New Zealand government digital services
 
 Key Responsibilities include:
+- Lead liaison with the all-of-government COVID-19 response team around digital best practice, co-ordinating support for efforts, and initiating work with international counterparts with regards to innovation in crisis response
 - Providing high quality advice and recommendations on the strategic direction of product and work programme initiatives
 - Driving system-wide outcomes across NZ government digital services and work programme areas 
 - Recommending technical digital solutions based on user needs, prototyping and testing to improve services and products
