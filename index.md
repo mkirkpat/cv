@@ -19,32 +19,28 @@ Experienced in delivering for users, leading diverse teams of digital profession
 ### Employment History
 
 
-#### Government Information Services (Nov. 2015 - present) - Lead Product Owner / Programme / Delivery Manager for New Zealand government digital services
+#### Government Information Services (Nov. 2015 - present) - Channels Manager / Lead Product Owner / Programme / Delivery Manager for New Zealand government digital services
 
 Key Responsibilities include:
-- Lead liaison with the all-of-government COVID-19 response team around digital best practice, co-ordinating support for efforts, and initiating work with international counterparts with regards to innovation in crisis response
-- Providing high quality advice and recommendations on the strategic direction of product and work programme initiatives
-- Driving system-wide outcomes across NZ government digital services and work programme areas 
-- Recommending technical digital solutions based on user needs, prototyping and testing to improve services and products
-- Championing co-design product development, the use of web standards and promotion of accessibility to ensure high quality, all-of-government digital services
-- Leading work around the Digital Government Partnership Innovation Fund - a multi-million dollar budgeted fund for promoting new ideas, innovation across government in New Zealand
-- Programme Manager role for key work around future of government digital services in New Zealand - informing strategy across the public sector
-- Leading work into an all-of-government design system including ideating, liaising with wider communities of interest, pushing project forward
-- Led the delivery of two major digital projects - a new Public Sector Intranet and [data.govt.nz](http://data.govt.nz) using Agile methodologies
-- Acting as Portfolio Manager, working with Senior Leadership Team
-- Managing sprints - resourcing, communications, helping the team to deliver to plan, removing constraints, blockers
-- Identifying training opportunities for the team - upskilling in agile approach
-- Engaging with teams across agencies in planning for and promotion of all of government services, and reaching out to international counterparts sharing knowledge, networking
-- Managing product team, BA, design, development resource - setting KPIs, roadmaps
-- Initiating user-centric approach to all work from analysis, research to design via user forums, community engagement, analytics, determining and building evidence of value
-- Advocating standards adherence, building quality in
-- Budgeting effectively, and efficiently working with vendor partners
-- Obtaining buy-in from senior leadership for key initiatives that align strategically to overarching goals
-- Supporting digital service design for government, drafting reports around cost recovery, resourcing etc.
-- Future-proofing - analysing trends, emerging user needs - planning appropriately
-- Instigating forums - e.g. 'Insight' for multi-disciplinary team can share work, achievements, knowledge and product owners can promote effectively
-- Part of interview panels building effective multi-disciplinary teams
-- Working with strategic partners setting up, running events - e.g. GovtJam Hackathon event for graduates and students
+	- Leading delivery of the Channels Strategy for the Digital Public Services branch at DIA including making recommendations around approaches to Editorial, Communications, Engagement, Identity, Product, Social Media, Business Intelligence driven development 
+	- Working with product team, refining roadmaps, aligning vision, deliverables to overarching strategic imperatives 
+	- Liaison with the all- of- government COVID- 19 response team during initial response in digital best practice, coordinating support and initiating work  
+	- Providing high quality advice and recommendations on the strategic direction of product and work programme initiatives for NZ government 
+	- Recommending technical digital solutions based on user needs, prototyping and testing to improve services and products 
+	- Championing service design standards, web standards and promotion of accessibility to ensure high quality, inclusive, all- of- government digital services 
+	- Leading work around the Digital Government Partnership Innovation Fund -  a multi- million dollar budgeted fund for promoting new ideas 
+	- Programme Manager role for key work around future of government digital services in New Zealand -  informing strategy across the public sector 
+	- Leading work into an all- of- government design system including ideating, liaising with wider communities of interest 
+	- Working with and through Senior Leadership Teams, incl part of interview panels building effective multi- disciplinary teams, reporting, getting buy- in 
+	- Engaging with international counterparts sharing knowledge, networking 
+	- Initiating user- centric approach to all work from analysis, research to design  
+	- Budgeting effectively, and efficiently working with vendor partners 
+	- Instigating forums -  e.g. 'Insight' for multi- disciplinary teams to share work, achievements, knowledge and product owners can promote effectively 
+	- Working with strategic partners in event rollout -  e.g. GovtJam Hackathon event for graduates and students 
+	- Led the delivery of two major digital projects -  a new Public Sector Intranet and data.govt.nz using Agile methodologies (Scrum) 
+	- Managing sprints -  helping the team to deliver to plan, removing constraints, blockers 
+	- Identifying training opportunities for the team -  upskilling in agile approaches 
+
 
 #### Ulster University, Jordanstown, NI (Jan. 2014 - Nov. 2015 - Digital Communications Manager
 Key Responsibilities:
