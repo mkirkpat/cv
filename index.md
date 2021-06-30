@@ -24,20 +24,18 @@ Experienced in delivering for users, leading diverse teams of digital profession
 Key Responsibilities include:
 - Leading delivery of the Channels Strategy for the branch, working with the Deputy Government Chief Officer team at DIA including making recommendations around approaches to Editorial, Digital Communications, Engagement, Product, Business Intelligence driven development
 - Working with product team, refining roadmaps, aligning vision, deliverables to overarching strategic imperatives
-- Liaison with the all- of- government COVID- 19 response team during initial response in digital best practice, coordinating support and initiating work 
-- Providing high quality advice and recommendations on the strategic direction of product and work programme initiatives for NZ government - Recommending technical digital solutions based on user needs, prototyping and testing to improve services and products
-- Championing service design standards, web standards and promotion of accessibility to ensure high quality, inclusive, all- of- government digital services
-- Leading work around the Digital Government Partnership Innovation Fund -  a multi- million dollar budgeted fund for promoting new ideas
-- Programme Manager role for key work around future of government digital services in New Zealand -  informing strategy across the public sector
-- Leading work into an all- of- government design system including ideating, liaising with wider communities of interest
-- Working with and through Senior Leadership Teams, incl part of interview panels building effective multi- disciplinary teams, reporting, getting buy- in
+- Liaison with the all-of-government COVID-19 response team during initial response in digital best practice, coordinating support and initiating work 
+- Providing high quality advice and recommendations on the strategic direction of product and work programme initiatives for NZ government - Recommending technical digital solutions based on user needs, prototyping and testing to improve services and products
+- Championing service design standards, web standards and promotion of accessibility to ensure high quality, inclusive, all-of-government digital services
+- Leading work around the Digital Government Partnership Innovation Fund - a multi-million dollar budgeted fund for promoting new ideas
+- Programme Manager role for key work around future of government digital services in New Zealand - informing strategy across the public sector
+- Leading work into an all-of-government design system including ideating, liaising with wider communities of interest
+- Working with and through Senior Leadership Teams, incl part of interview panels building effective multi-disciplinary teams, reporting, getting buy- in
 - Engaging with international counterparts sharing knowledge, networking
-- Initiating user- centric approach to all work from analysis, research to design  - Budgeting effectively, and efficiently working with vendor partners
-- Instigating forums -  e.g. 'Insight' for multi- disciplinary teams to share work, achievements, knowledge and product owners can promote effectively
-- Working with strategic partners in event rollout -  e.g. GovtJam Hackathon event for graduates and students
-- Led the delivery of two major digital projects -  a new Public Sector Intranet and data.govt.nz using Agile methodologies (Scrum)
-- Managing sprints -  helping the team to deliver to plan, removing constraints, blockers
-- Identifying training opportunities for the team -  upskilling in agile approaches 
+- Initiating user-centric approach to all work from analysis, research to design; budgeting effectively, and efficiently working with vendor partners
+- Instigating forums - e.g. 'Insight' for multi-disciplinary teams to share work, achievements, knowledge and product owners can promote effectively
+- Working with strategic partners in event rollout - e.g. GovtJam Hackathon event for graduates and students
+- Led the delivery of two major digital projects - a new Public Sector Intranet and data.govt.nz using Agile methodologies (Scrum)
 
 
 #### Ulster University, Jordanstown, NI (Jan. 2014 - Nov. 2015 - Digital Communications Manager
