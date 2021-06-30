@@ -22,7 +22,7 @@ Experienced in delivering for users, leading diverse teams of digital profession
 #### Digital Public Service (Nov. 2015 - present) - Channels Manager / Lead Product Owner / Programme / Delivery Manager for New Zealand government digital services
 
 Key Responsibilities include:
-- Leading delivery of the Channels Strategy for the branch, working with the Deputy Government Chief Officer team at DIA including making recommendations around approaches to Editorial, Digital Communications, Engagement, Product, Business Intelligence driven development
+- Leading delivery of the Channels Strategy for the branch, working with the Deputy Government Chief Digital Officer team at DIA including making recommendations around approaches to Editorial, Digital Communications, Engagement, Product, Business Intelligence driven development
 - Working with product team, refining roadmaps, aligning vision, deliverables to overarching strategic imperatives
 - Liaison with the all-of-government COVID-19 response team during initial response in digital best practice, coordinating support and initiating work 
 - Providing high quality advice and recommendations on the strategic direction of product and work programme initiatives for NZ government - Recommending technical digital solutions based on user needs, prototyping and testing to improve services and products
