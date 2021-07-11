@@ -45,11 +45,11 @@ Various roles:
 -	Leading **Digital Government Partnership Innovation Fund** work 
 
 ##### Achievements
--	Delivery with Product Owners of product vision refresh across portfolio
--	Working with Product Owners to increase reach and engagement rates
--	Key product and policy support, advice  to COVID-19 response
--	Led distribution of approx $3.5 million to Innovation Fund initiatives
--	Working with strategic partners in event rollout (e.g. Hackathons)
+1.	Delivery with Product Owners of product vision refresh across portfolio
+1.	Working with Product Owners to increase reach and engagement rates
+1.	Key product and policy support, advice  to COVID-19 response
+1.	Led distribution of approx $3.5 million to Innovation Fund initiatives
+1.	Working with strategic partners in event rollout (e.g. Hackathons)
 
 #### Programme / Delivery Manager 
 (12/15 - 10/19)
@@ -61,11 +61,11 @@ Various roles:
 -	Engaging with **international counterparts** sharing knowledge, networking
 
 ##### Achievements
--	Led delivery of Design System Alpha, Structured Content Model to Discovery 
--	Delivered other digital projects - a new Public Sector Intranet, a new data.govt.nz, replatforming of gazette.govt.nz using **Agile methodologies (Scrum)**
--	Reporting, presenting plans and progress to **Senior Leadership Team**
--	Initiated business case work for funding where needed
--	Represented DPS at International Service Design Conference in Edinburgh 2019
+1.	Led delivery of Design System Alpha, Structured Content Model to Discovery 
+1.	Delivered other digital projects - a new Public Sector Intranet, a new data.govt.nz, replatforming of gazette.govt.nz using **Agile methodologies (Scrum)**
+1.	Reporting, presenting plans and progress to **Senior Leadership Team**
+1.	Initiated business case work for funding where needed
+1.	Represented DPS at International Service Design Conference in Edinburgh 2019
 
 #### Digital Communications Manager
 Ulster University, Belfast, Northern Ireland (NI) - (02/14 - 10/15)
@@ -79,10 +79,36 @@ Ulster University, Belfast, Northern Ireland (NI) - (02/14 - 10/15)
 -	Leadership for team members - professional development, hiring
 
 ##### Achievements
+1.	Delivery of the new [ulster.ac.uk](http://www.ulster.ac.uk) - Discovery, Alpha, Beta, Live
+1.	Managing successful design, build and launch of a new intranet
+1.	Establishment of effective governance to maintain controls with Digital Producers across distributed teams
 
--	Delivery of the new [ulster.ac.uk](http://www.ulster.ac.uk) - Discovery, Alpha, Beta, Live
--	Managing successful design, build and launch of a new intranet
--	Establishment of effective governance to maintain controls with Digital Producers across distributed teams
+#### Online Manager 
+Danske Bank, Belfast, NI - (02/09 - 02/14)
+
+##### Responsibilities
+-	Responsible for applications with teams in Ireland, UK, Denmark
+-	Optimising content, improving UX and ultimately conversion rates in online applications (e.g. 26% better conversion via forms)
+-	Managing Web Editor team - performance, mentoring etc.
+-	Working with Management, Business Development teams, Editors and Designers, catering for the needs of different audiences
+-	Examining analytics, testing, tweaking, improving performance, monitoring search (organic, paid)
+-	Controlling risk and assigning responsibility for content 
+
+##### Achievements
+2.	Rebrand of [online platforms](http://www.danskebank.co.uk) across two jurisdictions 
+2.	Developed strategy for online communications, campaigns
+2.	Introducing agile methodologies to the workplace
+2.	Produced a Digital Marketing Strategy for Private Banking team
+2.	Worked across sensitive programmes of work, e.g. part of the wind down of business units, retiring systems etc.
+#### Senior Information Officer
+Centre for Cross Border Studies, Armagh, NI - (04/07 - 02/09)
+
+##### Responsibilities
+-	Launched [borderpeople.info](http://www.borderpeople.info); the first cross-border online information channel on the island of Ireland
+-	Developing content of cross border websites (borderireland.info) including development of story bank features
+-	Managing relationships with key government information providers in Dublin and Belfast
+-	Promoting at all relevant public events, developing relationships with information providers
+
 
 ## Education and Training
 
