@@ -95,11 +95,11 @@ Danske Bank, Belfast, NI - (02/09 - 02/14)
 -	Controlling risk and assigning responsibility for content 
 
 ##### Achievements
-2.	Rebrand of [online platforms](http://www.danskebank.co.uk) across two jurisdictions 
-2.	Developed strategy for online communications, campaigns
-2.	Introducing agile methodologies to the workplace
-2.	Produced a Digital Marketing Strategy for Private Banking team
-2.	Worked across sensitive programmes of work, e.g. part of the wind down of business units, retiring systems etc.
+1.	Rebrand of [online platforms](http://www.danskebank.co.uk) across two jurisdictions 
+1.	Developed strategy for online communications, campaigns
+1.	Introducing agile methodologies to the workplace
+1.	Produced a Digital Marketing Strategy for Private Banking team
+1.	Worked across sensitive programmes of work, e.g. part of the wind down of business units, retiring systems etc.
 #### Senior Information Officer
 Centre for Cross Border Studies, Armagh, NI - (04/07 - 02/09)
 
@@ -108,22 +108,34 @@ Centre for Cross Border Studies, Armagh, NI - (04/07 - 02/09)
 -	Developing content of cross border websites (borderireland.info) including development of story bank features
 -	Managing relationships with key government information providers in Dublin and Belfast
 -	Promoting at all relevant public events, developing relationships with information providers
+#### Web Editor
+Housing Rights Service, Belfast, NI - (04/06 - 04/07)
 
+##### Responsibilities
+-	Web and graphic design for award winning website (**e-government award - [housingadviceni.org](http://www.housingadviceni.org)**
+-	Working with Policy & Communications, writing/editing complex legal online content pertinent to the housing sector
+-	Ensuring content in format and function was usable and accessible to all.
+-	Research and writing for organisational website [housingrights.org.uk](http://www.housingrights.org.uk) 
+#### Account Manager
+Level Seven Creative, Belfast, NI - (07/04 - 04/06)
+
+##### Responsibilities
+-	Working with the Start A Business Programme providing guidance on web marketing solutions to start-ups
+-	Delivering presentations to new businesses on Search Engine Optimisation, Web Marketing etc.
 
 ## Education and Training
 
-- Professional Diploma in Digital Strategy and Planning  - Digital Marketing Institute (2019), Certified CDMS-SP
+- Professional Diploma in **Digital Strategy and Planning** - Digital Marketing Institute (2019), Certified CDMS-SP
 - ICAgile Certified Professional
 	-	o Nov 2017 - Present License 61-8276-f6b928f4-46ad-44a3-be28-6207eb453e
-- Te reo, Tikanga and Treaty training (beginner) completed in June 2017
-- Professional Diploma in Digital Marketing - Digital Marketing Institute, London, UK (2013)
+- **Te reo, Tikanga and Treaty** training (beginner) completed in June 2017
+- Professional Diploma in **Digital Marketing** - Digital Marketing Institute, London, UK (2013)
 - PRINCE2 Certified, Belfast (2011)
 	-	APMG International, License 02378154-02-3V1Q
-- Adobe Certified Associate - Rich Media Communication;  Flash, Dublin, Ireland (2010)
 - Premiere Publishing (2006) London, UK
-- Writing effectively for the web / Information architecture
+	- **Writing effectively for the web / Information architecture**
 - Premiere2, Graduate Management Development Programme, Belfast, N. Ireland (2003)
-- Level 4 Diploma in Management from the Chartered Management Institute.       
+	-	Level 4 **Diploma in Management** from the Chartered Management Institute.       
 - NUI Maynooth, Co. Kildare, Ireland (2002-2003)
 	-	Post-Graduate **Higher National Diploma in Information Technology** (2.1)
 	-	Subject Areas included: End User Studies, Databases (SQL)
@@ -133,17 +145,12 @@ Centre for Cross Border Studies, Armagh, NI - (04/07 - 02/09)
 	-	**BTEC National Diploma in Journalism** - 9 Distinctions, 4 Merits.
 
 ### Software application / language skills
-Skills / tools include Visual Studio Code, Sublime Text, CodeKit, Adobe Suite, Audacity, Slack, Trello, ProductPlan, Roadmunk, Git, JQuery, Html, PHP, CSS, LESS, SASS, MySQL, Vue, SharePoint, WordPress, SilverStripe.
-
-Knowledge sets include accessibility, search engine optimisation, design systems, usability, digital marketing, analytics etc.
+Visual Studio Code, Sublime Text, CodeKit, Adobe Suite, Audacity, Slack, Trello, ProductPlan, Git, Html, PHP, CSS, SASS, MySQL, SharePoint, WordPress, SilverStripe. Knowledge sets include accessibility, search engine optimisation, design systems, usability, digital marketing, analytics etc.
 
 ###  Achievements
-- Provided digital consultancy in 2019 for successful Claire Hanna campaign to become MP for South Belfast at Westminster, with a 30% increase in vote share
-- Designed, developed website for Member of the Legislative Assembly (MLA) in Northern Ireland Assembly -  [clairehanna.org](http://clairehanna.org)
-- 3 years chair (2011-2014) of SDLP political party branch in south Belfast, Northern Ireland
+- Active member of the Irish Business Network NZ in Wellington
+- Provided digital consultancy in 2019 for successful Claire Hanna campaign to become **MP for South Belfast** at Westminster, with a **30% increase in vote share** - including developing website [clairehanna.org](http://clairehanna.org)
+- 3 years chair (2011-2014) of SDLP political party branch in south Belfast, NI
 
-#### Hobbies & Interests
-
-Reading, writing, running, history, current affairs, photography, music, cinema, swimming, soccer, chess.
-
-Referees: *Available on request*
+####Referees
+*Available on request*
