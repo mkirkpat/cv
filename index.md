@@ -16,6 +16,9 @@ Experienced in leading diverse teams of digital professionals, working to a coll
 - Creative, organised with natural management and leadership qualities
 
 ### Employment History
+- Producing the DPS branch Channels Strategy - *Whakameto* - including social media strategy, digital dashboard design via Power BI and G Suite tools
+- Objective Key Result (OKR) development with communications teams
+- Initiating Editorial Group - *Rōpū* - and associated forums' for multi-disciplinary teams to share work, achievements, knowledge 
 
 
 #### Digital Public Service (DPS) branch at the Department of Internal Affairs (DIA). 
@@ -32,16 +35,20 @@ Various roles:
 -	Incorporating Te Reo Maori across key initiatives
 -	Part of interview panels building multi-disciplinary teams
 
-
 ###### Achievements
-
-
+-	Producing the DPS branch Channels Strategy - Whakameto - including social media strategy, digital dashboard design via Power BI and G Suite tools
+-	Objective Key Result (OKR) development with communications teams
+-	Initiating Editorial Group - Rōpū - and associated forums' for multi-disciplinary teams to share work, achievements, knowledge 
 
 ##### Lead Product Owner
 (10/19 - 01/21)
 
 ###### Responsibilities
-
+-	Leading product team in roadmap refinement, aligning vision to strategy
+-	Lead product liaison with the *all-of-government COVID-19 response team*
+-	Providing advice and recommendations on the strategic direction of products
+-	Championing design standards to promote quality, inclusive, digital services
+-	Leading *Digital Government Partnership Innovation Fund* work 
 
 
 ###### Achievements
