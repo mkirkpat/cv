@@ -16,13 +16,7 @@ Experienced in leading diverse teams of digital professionals, working to a coll
 - Creative, organised with natural management and leadership qualities
 
 ### Employment History
-- Producing the DPS branch Channels Strategy - *Whakameto* - including social media strategy, digital dashboard design via Power BI and G Suite tools
-- Objective Key Result (OKR) development with communications teams
-- Initiating Editorial Group - *Rōpū* - and associated forums' for multi-disciplinary teams to share work, achievements, knowledge 
-
-
 #### Digital Public Service (DPS) branch at the Department of Internal Affairs (DIA). 
-
 Various roles:
 
 #### Channels Manager
@@ -85,64 +79,11 @@ Ulster University, Belfast, Northern Ireland (NI).
 -	Management of Digital Project Board to ensure strategic issues are addressed and senior buy-in secured
 -	Leadership for team members - professional development, hiring
 
-
 ##### Achievements
 
 -	Delivery of the new [ulster.ac.uk](http://www.ulster.ac.uk) - Discovery, Alpha, Beta, Live
 -	Managing successful design, build and launch of a new intranet
 -	Establishment of effective governance to maintain controls with Digital Producers across distributed teams
-
-
-- Leading website redevelopment of [ulster.ac.uk](http://www.ulster.ac.uk) - including user research sessions
-- Representing the communications/brand portfolio at university meetings/committees etc.
-- Managing successful design, build and launch of a new digital internal communications channel
-- Management of external supplier relationships ensuring value-for-money and timely project delivery
-- Effective management of Digital Project Board to ensure relevant strategic issues are addressed and senior buy-in secured
-- Establishment of a practical governance structure to maintain controls for Web Producers across teams
-- Leadership for digital communications team members - ensuring human resources managed effectively
-- Building strong partnering relationships with colleagues in key departments, especially those with interdependencies for project delivery
-- Ensuring new and migrated content aligned to brand - consistent in visual style, language and tone
-- Managing development of web toolkits and training support for key internal colleagues
-- Ensuring clear communication of project goals, progress, and planning; managing expectations
-
-#### Danske Bank, Donegall Square, Belfast (Feb. 2009 - Jan. 2014)  Online Manager
-Key Responsibilities:
-
-- Managing the national rebrand of organisation online platforms in 2012 across two jurisdictions - Ireland and UK - [danskebank.co.uk](http://www.danskebank.co.uk)
-- Responsible for Danske Bank online content (web, apps etc.) from Belfast and Dublin
-- Liaising with external agencies, remote teams in Ireland & Denmark optimising content, improving user experience and ultimately conversion rates in online applications etc.
-- Working with Management, Business Development teams, Editors and Designers, responsible for coordinating site content and catering for the needs of various target audiences
-- Developing strategy for online communications, campaigns, social media
-- Examining analytics, testing, tweaking, improving performance, monitoring search (organic, paid)
-- Controlling risk and assigning responsibility for content, liaising with compliance teams etc.
-- Introducing agile methodologies to the workplace, replacing waterfall approaches
-- Managing web editor team - performance management, mentoring etc.
-
-#### Centre for Cross Border Studies | Armagh, Northern Ireland (Apr. 2007 - Feb. 2009) Senior Information Officer
-Key Responsibilities:
-
-- Co-ordination of the build and launch of [borderpeople.info](http://borderpeople.info); the first cross-border online information channel on the island of Ireland for users from the Republic of Ireland and Northern Ireland
-- Developing content of cross border websites ([borderireland.info](http://www.borderireland.info)) including development of story bank features
-- Managing relationships with key government information providers in Dublin and Belfast
-- Preparing summaries of any information included in the system for key stakeholders
-- Promoting at all relevant public events, developing relationships with information providers
-
-#### Housing Rights Service,  Belfast, Northern Ireland (Apr. 2006  - Apr. 2007)  Web Editor
-
-Key Responsibilities:
-
-- Working within the Policy & Communications unit of major advisory body writing/editing complex legal online content pertinent to the housing sector in Northern Ireland - for practitioners, advisers, public
-- Ensuring content in format and function was usable and accessible to all.
-- Web and graphic design for award winning website (e-government award 2007 - [housingadviceni.org](http://www.housingadviceni.org))
-- Research and writing for organisational website [housingrights.org.uk](http://www.housingrights.org.uk)
-- Producing monthly reports based on web analysis identifying key areas for improvement etc.
-
-#### Level Seven Creative Design | Belfast, Northern Ireland (Jul. 2004 - Apr. 2006) | Account Manager 
-
-Key Responsibilities:
-
-- Liaising with a large client base, working with the Start A Business Programme providing guidance on web marketing solutions, actively marketing the programme internally, externally.
-- Delivering presentations to new businesses on Search Engine Optimisation, Web Marketing etc.
 
 ## Education and Training
 
