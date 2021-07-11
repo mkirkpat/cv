@@ -18,9 +18,7 @@ Experienced in leading diverse teams of digital professionals, working to a coll
 ### Employment History
 
 
-#### Digital Public Service (Nov. 2015 - present) - Channels Manager / Lead Product Owner / Programme / Delivery Manager for New Zealand government digital services
-
-*Digital Public Service* (DPS) branch at the *Department of Internal Affairs* (DIA). 
+#### Digital Public Service (DPS) branch at the Department of Internal Affairs (DIA). 
 
 Various roles:
 
@@ -29,7 +27,7 @@ Various roles:
 
 ###### Responsibilities
 -	Delivered Channels Strategy for branch, working with the Deputy Government Chief Digital Officer and team, improving communications and engagement
--	Advocating for [https://www.digital.govt.nz/digital-government/strategy/strategy-summary/strategy-for-a-digital-public-service/](the Strategy for a Digital Public Service) ensuring teams work align to outcomes sought
+-	Advocating for [the Strategy for a Digital Public Service](https://www.digital.govt.nz/digital-government/strategy/strategy-summary/strategy-for-a-digital-public-service/) ensuring teams work align to outcomes sought
 -	Development of identity of the branch unit, promoting awareness, engagement
 -	Incorporating Te Reo Maori across key initiatives
 -	Part of interview panels building multi-disciplinary teams
