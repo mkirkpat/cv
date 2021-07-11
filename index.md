@@ -30,9 +30,9 @@ Various roles:
 -	Part of interview panels building multi-disciplinary teams
 
 ##### Achievements
--	Producing the DPS branch Channels Strategy - **Whakameto** - including social media strategy, digital dashboard design via Power BI and G Suite tools
--	Objective Key Result (OKR) development with communications teams
--	Initiating Editorial Group - **Rōpū** - and associated forums' for multi-disciplinary teams to share work, achievements, knowledge 
+1	Producing the DPS branch Channels Strategy - **Whakameto** - including social media strategy, digital dashboard design via Power BI and G Suite tools
+1	Objective Key Result (OKR) development with communications teams
+1	Initiating Editorial Group - **Rōpū** - and associated forums' for multi-disciplinary teams to share work, achievements, knowledge 
 
 #### Lead Product Owner
 (10/19 - 01/21)
@@ -68,8 +68,7 @@ Various roles:
 -	Represented DPS at International Service Design Conference in Edinburgh 2019
 
 #### Digital Communications Manager
-Ulster University, Belfast, Northern Ireland (NI).
-(02/14 - 10/15)
+Ulster University, Belfast, Northern Ireland (NI) - (02/14 - 10/15)
 
 ##### Responsibilities
 -	Instilling agile ways of working across digital team 
