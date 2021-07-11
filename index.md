@@ -25,51 +25,74 @@ Experienced in leading diverse teams of digital professionals, working to a coll
 
 Various roles:
 
-##### Channels Manager
+#### Channels Manager
 (01/21 - present)
 
-###### Responsibilities
--	Delivered Channels Strategy for branch, working with the Deputy Government Chief Digital Officer and team, improving communications and engagement
+##### Responsibilities
+-	Delivered **Channels Strategy** for branch, working with the Deputy Government Chief Digital Officer and team, improving communications and engagement
 -	Advocating for [the Strategy for a Digital Public Service](https://www.digital.govt.nz/digital-government/strategy/strategy-summary/strategy-for-a-digital-public-service/) ensuring teams work align to outcomes sought
 -	Development of identity of the branch unit, promoting awareness, engagement
 -	Incorporating Te Reo Maori across key initiatives
 -	Part of interview panels building multi-disciplinary teams
 
-###### Achievements
--	Producing the DPS branch Channels Strategy - Whakameto - including social media strategy, digital dashboard design via Power BI and G Suite tools
+##### Achievements
+-	Producing the DPS branch Channels Strategy - **Whakameto** - including social media strategy, digital dashboard design via Power BI and G Suite tools
 -	Objective Key Result (OKR) development with communications teams
--	Initiating Editorial Group - Rōpū - and associated forums' for multi-disciplinary teams to share work, achievements, knowledge 
+-	Initiating Editorial Group - **Rōpū** - and associated forums' for multi-disciplinary teams to share work, achievements, knowledge 
 
-##### Lead Product Owner
+#### Lead Product Owner
 (10/19 - 01/21)
 
-###### Responsibilities
+##### Responsibilities
 -	Leading product team in roadmap refinement, aligning vision to strategy
--	Lead product liaison with the *all-of-government COVID-19 response team*
+-	Lead product liaison with the **all-of-government COVID-19 response team**
 -	Providing advice and recommendations on the strategic direction of products
 -	Championing design standards to promote quality, inclusive, digital services
--	Leading *Digital Government Partnership Innovation Fund* work 
+-	Leading **Digital Government Partnership Innovation Fund** work 
 
+##### Achievements
+-	Delivery with Product Owners of product vision refresh across portfolio
+-	Working with Product Owners to increase reach and engagement rates
+-	Key product and policy support, advice  to COVID-19 response
+-	Led distribution of approx $3.5 million to Innovation Fund initiatives
+-	Working with strategic partners in event rollout (e.g. Hackathons)
 
-###### Achievements
-
-
-##### Programme / Delivery Manager 
+#### Programme / Delivery Manager 
 (12/15 - 10/19)
 
-###### Responsibilities
+##### Responsibilities
+-	[All-of-Government Design System](https://design-system-alpha.digital.govt.nz/) including ideating, liaising with wider communities of practice
+-	Programme Manager role for work on **future government digital services**
+-	Initiating user-centric approach to work from analysis, research to design; budgeting, and efficiently working with supplier partners
+-	Engaging with **international counterparts** sharing knowledge, networking
+
+##### Achievements
+-	Led delivery of Design System Alpha, Structured Content Model to Discovery 
+-	Delivered other digital projects - a new Public Sector Intranet, a new data.govt.nz, replatforming of gazette.govt.nz using **Agile methodologies (Scrum)**
+-	Reporting, presenting plans and progress to **Senior Leadership Team**
+-	Initiated business case work for funding where needed
+-	Represented DPS at International Service Design Conference in Edinburgh 2019
+
+#### Digital Communications Manager
+Ulster University, Belfast, Northern Ireland (NI).
+(02/14 - 10/15)
+
+##### Responsibilities
+-	Instilling agile ways of working across digital team 
+-	Leading on digital strategy and implementing associated policies 
+-	Representing the communications/brand portfolio 
+-	Management of external supplier relationships ensuring value-for-money and timely project delivery
+-	Management of Digital Project Board to ensure strategic issues are addressed and senior buy-in secured
+-	Leadership for team members - professional development, hiring
 
 
+##### Achievements
 
-###### Achievements
+-	Delivery of the new [ulster.ac.uk](http://www.ulster.ac.uk) - Discovery, Alpha, Beta, Live
+-	Managing successful design, build and launch of a new intranet
+-	Establishment of effective governance to maintain controls with Digital Producers across distributed teams
 
 
-
-#### Ulster University, Jordanstown, NI (Jan. 2014 - Nov. 2015 - Digital Communications Manager
-Key Responsibilities:
-
-- Instilling agile 'sensibilities' across digital team - e.g. using GDS (UK) design principles to guide work
-- Developing, leading on digital strategy and implementing policies as part of a rebrand in 2015
 - Leading website redevelopment of [ulster.ac.uk](http://www.ulster.ac.uk) - including user research sessions
 - Representing the communications/brand portfolio at university meetings/committees etc.
 - Managing successful design, build and launch of a new digital internal communications channel
