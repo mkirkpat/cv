@@ -16,8 +16,7 @@ Experienced in leading diverse teams of digital professionals, working to a coll
 - Creative, organised with natural management and leadership qualities
 
 ### Employment History
-#### Senior Manager Technology Services
-(Stats NZ · Full-time)
+#### Senior Manager, Technology Services, Stats NZ
 11/21 - Present
 
 - Member of Senior Leadership Team for the Outputs Service Line
