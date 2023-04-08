@@ -1,7 +1,7 @@
 # Mark Kirkpatrick
 
 - [ie.linkedin.com/in/markkirkpatrick/](ie.linkedin.com/in/markkirkpatrick/), [markkirkpatrick.co.uk/](markkirkpatrick.co.uk/)
-- phone: +64 (0)21 1841 7613
+- phone: +64 (0)21 1841 761
 - email: <markkirkpatrick@gmail.com>
 
 ## Profile
@@ -16,11 +16,22 @@ Experienced in leading diverse teams of digital professionals, working to a coll
 - Creative, organised with natural management and leadership qualities
 
 ### Employment History
+#### Senior Manager Technology Services
+(Stats NZ · Full-time)
+11/21 - Present
+
+- Member of Senior Leadership Team for the Outputs Service Line
+- Driving service vision, strategy and objectives
+- Managing, motivating, and developing a multi-disciplinary team
+- Leading engagement with leadership teams across Stats NZ
+- Leading technology service line through change, and instilling product, agile methodologies
+- Liaising across the business, project, vendor, and leadership teams on major initiatives including Census 23 and Persistent Child Poverty Measurement work
+
 #### Digital Public Service (DPS) branch at the Department of Internal Affairs (DIA). 
 Various roles:
 
 #### Channels Manager
-(01/21 - present)
+(01/21 - 11/21)
 
 ##### Responsibilities
 -	Delivered **Channels Strategy** for branch, working with the Deputy Government Chief Digital Officer and team, improving communications and engagement
