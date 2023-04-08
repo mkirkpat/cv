@@ -1,7 +1,7 @@
 # Mark Kirkpatrick
 
 - [ie.linkedin.com/in/markkirkpatrick/](ie.linkedin.com/in/markkirkpatrick/), [markkirkpatrick.co.uk/](markkirkpatrick.co.uk/)
-- phone: +64 (0)21 1841 761
+- phone: +64 (0)21 1841 7613
 - email: <markkirkpatrick@gmail.com>
 
 ## Profile
