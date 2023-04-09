@@ -6,25 +6,26 @@
 
 ## Profile
 
-Experienced in leading diverse teams of digital professionals, working to a collective vision using collaborative and agile ways of working. Passionate about delivering inclusive digital services that evolve as and when conditions change. Responsible for instigating and delivering programmes of work and formulating digital strategy in an era of transformation.
+Experienced in delivering for users, leading diverse teams of digital professionals, working to a collective vision using collaborative and agile ways of working. A confident communicator, comfortable presenting, demoing, networking, and using research, data, analysis to make recommendations in furthering digital service design. Passionate about delivering inclusive services that work well for everyone and evolve as and when conditions change. Responsible for both instigating and delivering major programmes of work and contributing to formulating digital strategy in an era of transformation.
 
 ### Skills and abilities
 
-- Over 15 years experience in digital - delivery, product, communications, strategy 
 - Well-rounded, specialist IT skills and knowledge
 - Excellent research, project management, interpersonal and communication skills
-- Creative, organised with natural management and leadership qualities
+- Proven team worker with the ability to energise and motivate others
+- Effective communicator; both written and verbal
+- A creative, organised and confident person with natural management and leadership qualities
 
 ### Employment History
 #### Senior Manager, Technology Services, Stats NZ
 11/21 - Present
 
-- Member of Senior Leadership Team for the Outputs Service Line
+- Member of **Senior Leadership Team** for the Outputs Service Line reporting to CTO
 - Driving service vision, strategy and objectives
 - Managing, motivating, and developing a multi-disciplinary team
 - Leading engagement with leadership teams across Stats NZ
-- Leading technology service line through change, and instilling product, agile methodologies
-- Liaising across the business, project, vendor, and leadership teams on major initiatives including Census 23 and Persistent Child Poverty Measurement work
+- Leading technology service line through change, agile methodologies
+- Liaising across the business, project, vendor, and leadership teams on major initiatives including **Census 23** and **Critical Statistical Releases** (GDP etc.)
 
 #### Digital Public Service (DPS) branch at the Department of Internal Affairs (DIA). 
 Various roles:
@@ -71,7 +72,6 @@ Various roles:
 -	Engaging with **international counterparts** sharing knowledge, networking
 
 ##### Achievements
-1.	Led delivery of Design System Alpha, Structured Content Model to Discovery 
 1.	Delivered other digital projects - a new Public Sector Intranet, a new data.govt.nz, replatforming of gazette.govt.nz using **Agile methodologies (Scrum)**
 1.	Reporting, presenting plans and progress to **Senior Leadership Team**
 1.	Initiated business case work for funding where needed
@@ -84,7 +84,7 @@ Ulster University, Belfast, Northern Ireland (NI) - (02/14 - 10/15)
 -	Instilling agile ways of working across digital team 
 -	Leading on digital strategy and implementing associated policies 
 -	Representing the communications/brand portfolio 
--	Management of external supplier relationships ensuring value-for-money and timely project delivery
+-	Management of external supplier relationships 
 -	Management of Digital Project Board to ensure strategic issues are addressed and senior buy-in secured
 -	Leadership for team members - professional development, hiring
 
@@ -117,14 +117,12 @@ Centre for Cross Border Studies, Armagh, NI - (04/07 - 02/09)
 -	Launched [borderpeople.info](http://www.borderpeople.info); the first cross-border online information channel on the island of Ireland
 -	Developing content of cross border websites (borderireland.info) including development of story bank features
 -	Managing relationships with key government information providers in Dublin and Belfast
--	Promoting at all relevant public events, developing relationships with information providers
 #### Web Editor
 Housing Rights Service, Belfast, NI - (04/06 - 04/07)
 
 ##### Responsibilities
 -	Web and graphic design for award winning website (**e-government award - [housingadviceni.org](http://www.housingadviceni.org)**
 -	Working with Policy & Communications, writing/editing complex legal online content pertinent to the housing sector
--	Ensuring content in format and function was usable and accessible to all.
 -	Research and writing for organisational website [housingrights.org.uk](http://www.housingrights.org.uk) 
 #### Account Manager
 Level Seven Creative, Belfast, NI - (07/04 - 04/06)
@@ -155,12 +153,12 @@ Level Seven Creative, Belfast, NI - (07/04 - 04/06)
 	-	**BTEC National Diploma in Journalism** - 9 Distinctions, 4 Merits.
 
 ### Software application / language skills
-Visual Studio Code, Sublime Text, CodeKit, Adobe Suite, Audacity, Slack, Trello, ProductPlan, Git, Html, PHP, CSS, SASS, MySQL, SharePoint, WordPress, SilverStripe. Knowledge sets include accessibility, search engine optimisation, design systems, usability, digital marketing, analytics etc.
+Microsoft 365 suite, JIRA (JQL), Slack, Trello, ProductPlan, Visual Studio Code, Sublime Text, CodeKit, Adobe Suite, Audacity, Git, Html, PHP, CSS, SASS, MySQL, SharePoint, WordPress, SilverStripe. Knowledge sets include accessibility, search engine optimisation, design systems, usability, digital marketing, analytics etc.
 
 ###  Achievements
-- Advisor for Enterprise Ireland panels to Irish businesses seeking to expand into the NZ market
+- Advisor for Enterprise Ireland panels to Irish businesses seeking to expand into NZ
 - Active member of the Irish Business Network NZ in Wellington
-- Provided digital consultancy in 2019 for successful Claire Hanna campaign to become **MP for South Belfast** at Westminster, with a **30% increase in vote share** - including developing website [clairehanna.org](http://clairehanna.org)
+- Provided digital consultancy in 2019 for successful Claire Hanna campaign to become **MP for South Belfast** at Westminster
 - 3 years chair (2011-2014) of SDLP political party branch in south Belfast, NI
 
 #### Referees
