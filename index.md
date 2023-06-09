@@ -21,10 +21,10 @@ Experienced in delivering for users, leading diverse teams of digital profession
 11/21 - Present
 
 - Member of **Senior Leadership Team** for the Outputs Service Line reporting to CTO
-- Driving service vision, strategy and objectives
+- Driving service line vision, strategy and objectives
 - Managing, motivating, and developing a multi-disciplinary team
 - Leading engagement with leadership teams across Stats NZ
-- Leading technology service line through change, agile methodologies
+- Leading technology service line through change, using agile methodologies
 - Liaising across the business, project, vendor, and leadership teams on major initiatives including **Census 23** and **Critical Statistical Releases** (GDP etc.)
 
 #### Digital Public Service (DPS) branch at the Department of Internal Affairs (DIA). 
